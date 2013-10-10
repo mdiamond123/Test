@@ -14,4 +14,5 @@ plot(X,Y)
 X <- 1:10
 Y <- x^2
 plot(X^2,y^5)
-
+plot(X^3,Y^15)
+Plot(X^5,Y^23)
